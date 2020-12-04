@@ -46,7 +46,15 @@ const AUTH_PASS = '' //**INPUT BASIC AUTH SUPER SECRET PASSWORD (optional)**
 
 or comment out those then use environment variables in workers settings
 
+# Demo
+
+[https://diskbd.chinakid.workers.dev/](https://diskbd.chinakid.workers.dev/)
+
 # Thanks
+
+[baiduwp-js](https://github.com/TkzcM/baiduwp): Baiduwp in JS
+
+[baiduwp-php](https://github.com/yuantuo666/baiduwp-php): PHP version of Baiduwp
 
 [PanDownload](https://pandownload.com): static pages
 
@@ -61,3 +69,5 @@ or comment out those then use environment variables in workers settings
 [MoePlayer/DPlayer](https://github.com/MoePlayer/DPlayer): video & audio preview
 
 ~~[Yixun](https://yixun.writeas.com/yi-xun): new download method~~ (Outdated)
+
+[another demo](https://pand.2o.workers.dev/)
